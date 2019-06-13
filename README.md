@@ -7,14 +7,12 @@
     <li>CSS3</li>
   </ul>
   <li>Cloned Page : <a href="https://www.youtube.com/watch?v=V74l_zS1x8E">Youtube original page</a></li>
-  <li>Live Version : <a href="">our project</a>
+  <li>Live Version : <a href="https://maya88en.github.io/Build-a-video/">our project</a>
   <li>Authors : </li>
   <ul>
     <li><a href="https://github.com/maya88en">Maya </a></li>
     <li><a href="https://github.com/Anna-Myzukina">Anna</a></li>
   </ul>
-  
-  <li></li>
  </ul>
   
 
